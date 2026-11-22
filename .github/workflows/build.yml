@@ -1,0 +1,58 @@
+name: 生成老人直播列表
+
+on:
+  schedule:
+    - cron: '30 20 * * *'      # 每天北京时间 04:30（GitHub 用 UTC）
+  workflow_dispatch: {}         # Actions 页面手动点 "Run workflow"
+  push:
+    paths:                      # 改了频道表/配置/脚本就立即重新生成
+      - 'channels.txt'
+      - 'config.json'
+      - 'build.py'
+      - 'slates/**'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-playlist
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      GITEE_TOKEN: ${{ secrets.GITEE_TOKEN }}   # 在仓库 Settings → Secrets 里添加；没有就跳过同步
+      GITEE_USER:  ${{ vars.GITEE_USER }}       # Settings → Variables：Gitee 用户名
+      GITEE_REPO:  ${{ vars.GITEE_REPO }}       # Settings → Variables：Gitee 仓库名
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 安装 ffmpeg 和 Pillow（用于识别“盗版提示/打赏”占位画面）
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+          pip install -q pillow
+
+      - name: 生成列表
+        run: python3 build.py --slate-check --report output/report.json
+
+      - name: 提交（有变化才提交）
+        run: |
+          git config user.name  "playlist-bot"
+          git config user.email "playlist-bot@users.noreply.github.com"
+          git add output/elderly.m3u output/report.json
+          if git diff --cached --quiet; then echo "无变化"; exit 0; fi
+          git commit -m "自动更新直播列表 $(TZ=Asia/Shanghai date '+%F %R')"
+          git push
+
+      # ---- 同步到 Gitee（国内访问）。没配置 GITEE_TOKEN 就自动跳过 ----
+      - name: 同步到 Gitee
+        if: env.GITEE_TOKEN != ''
+        run: |
+          git fetch --unshallow origin 2>/dev/null || true
+          git push --force "https://${GITEE_USER}:${GITEE_TOKEN}@gitee.com/${GITEE_USER}/${GITEE_REPO}.git" HEAD:main

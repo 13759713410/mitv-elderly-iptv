@@ -1,0 +1,1644 @@
+{
+ "groups": {
+  "陕西": 12,
+  "央视": 18,
+  "卫视": 38,
+  "戏曲故事": 7
+ },
+ "missing": [
+  "陕西生活",
+  "陕西公共"
+ ],
+ "stats": {
+  "blocked": 51,
+  "dropped_4k": 45,
+  "slate": 0
+ },
+ "channels": [
+  {
+   "group": "陕西",
+   "name": "陕西卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=sxws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=陕西卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/43/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西新闻资讯",
+   "lines": [
+    [
+     "vbskycn",
+     "http://112.46.105.20:8009/hls/18/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西都市青春",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/19/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西影视",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/62/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西体育休闲",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/24/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西农林卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000122.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西银龄",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/20/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "西安新闻",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/28/index.m3u8",
+     "ok"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "西安都市",
+   "lines": [
+    [
+     "vbskycn",
+     "http://112.46.105.20:8009/hls/29/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "西安丝路",
+   "lines": [
+    [
+     "iptv-org",
+     "http://stream2.xiancity.cn/xatv5/playlist.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "西安商务资讯",
+   "lines": [
+    [
+     "iptv-org",
+     "http://stream2.xiancity.cn/xatv3/playlist.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西秦腔",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/22/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV1 综合",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv1hd.m3u8",
+     "ok"
+    ],
+    [
+     "iptv-org",
+     "http://69.30.245.50/live/cctv1.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV1",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV2 财经",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv2hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV2",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0002_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV3 综艺",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv3hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV3",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0003_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV4 中文国际",
+   "lines": [
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV4",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0004_1.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cctv4",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV5 体育",
+   "lines": [
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV5",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0005_1.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cctv5",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV5+ 体育赛事",
+   "lines": [
+    [
+     "iptv-org",
+     "https://php.jdshipin.com/TVOD/iptv.php?id=cctv5p",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV5p",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cctv5p",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/6/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV6 电影",
+   "lines": [
+    [
+     "iptv-org",
+     "https://live.eac-news.com/CCTV/streams/cctv6.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://69.30.245.50/live/cctv6.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV6",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV7 国防军事",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv7hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV7",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0007_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV8 电视剧",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv8hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0008_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV9 纪录",
+   "lines": [
+    [
+     "iptv-org",
+     "https://xykt-fix.github.io/Y77.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV9",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0009_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV10 科教",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv10hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV10",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0010_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV11 戏曲",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv11hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV11",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0011_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV12 社会与法",
+   "lines": [
+    [
+     "vbskycn",
+     "http://124.165.251.82:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv12hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV12",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV13 新闻",
+   "lines": [
+    [
+     "vbskycn",
+     "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv13hd.m3u8",
+     "ok"
+    ],
+    [
+     "iptv-org",
+     "http://go.bkpcp.top/mg/cctv13",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV13",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV14 少儿",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv14hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV14",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0014_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV15 音乐",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv15hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=CCTV15",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://p.ytelc.com/169l/0/cctv.php?id=cctv15",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://175.8.28.207:9999/tsfile/live/0001_1.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV16 奥林匹克",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv16hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=CCTV16",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://p.ytelc.com/169l/0/cctv.php?id=cctv16",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cctv16",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "央视",
+   "name": "CCTV17 农业农村",
+   "lines": [
+    [
+     "iptv-org",
+     "http://74.91.26.218:82/live/cctv17hd.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://74.48.192.96:82/live.php?id=CCTV17",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://p.ytelc.com/169l/0/cctv.php?id=cctv17",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cctv17",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "湖南卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/hunanhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=hunws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=湖南卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "浙江卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://play-qukan.cztv.com/live/1746687519046362.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/zjhd.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "江苏卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/jshd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=jsws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=江苏卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "东方卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/dfhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=dfws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "北京卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://ivi.bupt.edu.cn/hls/btv1.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://go.bkpcp.top/mg/bjws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/btv1hd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=北京卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "天津卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/tjhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=天津卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/42/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "河北卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/hebhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=河北卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000108.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "山西卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=山西卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/45/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "内蒙古卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=nmws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=内蒙古卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "辽宁卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.39.37/PLTV/88888888/224/3221226209/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/lnhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=lnws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=辽宁卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "吉林卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=jlws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=吉林卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "黑龙江卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "https://idclive.hljtv.com:4430/live/hljws_own.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227492/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/hljhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=黑龙江卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "安徽卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "https://restream.pdtvhd.com/memfs/c1cd2ed0-3b2b-4c25-af98-a7fb0b1eb130.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/ahhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=安徽卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/26/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "东南卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/dnhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=dnws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=东南卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "江西卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/jxhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=jxws",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "山东卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://125.210.152.18:9090/live/SDWSHD_H265.m3u8",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/sdhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=sdws",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "河南卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=hnws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=河南卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/37/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "湖北卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/hbhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=hubws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=湖北卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/41/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "广东卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/gdhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=gdws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=广东卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "广西卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=gxws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=广西卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "海南卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=hinws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=海南卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000473.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://nn.7x9d.cn/地方台8563/海南.php?id=hnws",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "重庆卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/cqhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=cqws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=重庆卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/36/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "四川卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/schd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=四川卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/35/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "贵州卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://183.207.248.71/gitv/live1/G_GUIZHOU/G_GUIZHOU",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=gzws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=贵州卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/46/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "云南卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=ynws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3d3dy5kc2suY2MvcGhwL3N4Z2QucGhwP2lkPXlud3M=",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/40/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "西藏卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
+     "iptv-org",
+     "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=xzws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=西藏卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "甘肃卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=gsws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=甘肃卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "青海卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=qhws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=青海卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "宁夏卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=nxws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000118.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "新疆卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
+     "ok"
+    ],
+    [
+     "iptv-org",
+     "https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=xjws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=新疆卫视",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "深圳卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://iptv.huuc.edu.cn/hls/szhd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=深圳卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/33/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "厦门卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://e2.woc.iiiya.cn:28888/rtp/239.61.2.11:8060",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://8.138.7.223/tv/fjtv1.php?id=xmws",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "兵团卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://112.25.48.68/live/program/live/btws/1300000/mnf.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "延边卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
+     "fail"
+    ],
+    [
+     "iptv-org",
+     "http://223.110.245.139/PLTV/4/224/3221227008/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000117.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "康巴卫视",
+   "lines": [
+    [
+     "iptv-org",
+     "http://110.185.237.164:8888/hls/30/index.m3u8",
+     "ok"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "安多卫视",
+   "lines": [
+    [
+     "vbskycn",
+     "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
+     "ok"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "三沙卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://nn.7x9d.cn/地方台8563/海南.php?id=ssws",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "卫视",
+   "name": "大湾区卫视",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=dwqws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://148.135.93.213/live.php?id=大湾区卫视",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://ali.hlspull.yximgs.com/live/b027460e580a463cb7e44eebexcvhnddggdfsdg.flv",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "河南梨园",
+   "lines": [
+    [
+     "suxuang",
+     "http://1.94.31.214/php/hntv.php?id=hnly",
+     "fail"
+    ],
+    [
+     "vbskycn",
+     "https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=41543190cdf375f1c73207222bb96542&wsTime=1769313549",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://www.lizhinas.top:1009/rtp/239.252.220.179:5140",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "河南戏曲",
+   "lines": [
+    [
+     "suxuang",
+     "http://www.cdnstv.com:6398/hls/1119/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "CCTV怀旧剧场",
+   "lines": [
+    [
+     "iptv-org",
+     "http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://www.lizhinas.top:1009/rtp/239.252.219.90:5140",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "CCTV第一剧场",
+   "lines": [
+    [
+     "iptv-org",
+     "http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "http://www.lizhinas.top:1009/rtp/239.252.219.86:5140",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "CCTV老故事",
+   "lines": [
+    [
+     "suxuang",
+     "http://t.061899.xyz/tl/tl.php?id=lgs",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "重温经典",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.27.235.94:8000/hls/50/index.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://8.138.7.223/tv/cwjd.php",
+     "ok"
+    ],
+    [
+     "suxuang",
+     "https://other.ottiptv.cc/cwjd.m3u8",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=重温经典",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "戏曲故事",
+   "name": "千禧经典",
+   "lines": [
+    [
+     "suxuang",
+     "http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://php.jdshipin.com:8880/smt.php?id=Tvbclassic",
+     "fail"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,14 @@
+{
+ "_说明": "直播源列表（顺序=线路优先级）和过滤规则。一般不用改；调频道顺序请改 channels.txt。",
+ "output": "output/elderly.m3u",
+ "sources": [
+  {"name": "vbskycn", "url": "https://live.zbds.top/tv/iptv4.m3u"},
+  {"name": "iptv-org", "url": "https://iptv-org.github.io/iptv/countries/cn.m3u"},
+  {"name": "suxuang", "url": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u"}
+ ],
+ "max_lines_per_channel": 4,
+ "drop_4k": true,
+ "blocked_names": ["支持作者", "更新时间", "打赏", "Telegram", "公告", "购物"],
+ "blocked_url_patterns": ["live\\.264788\\.xyz", "kwimgs\\.com/upic", "\\.mp4($|\\?)", "bdstatic\\.com"],
+ "_blocked_说明": "live.264788.xyz 实测播出“您可能是盗版资源的受害者+Telegram二维码”占位画面；kwimgs/bdstatic/.mp4 是录播短视频冒充直播。--slate-check 时还会用 slates/ 里的参考图做画面指纹比对。"
+}
