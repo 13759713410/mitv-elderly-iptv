@@ -43,7 +43,7 @@
     [
      "vbskycn",
      "http://112.46.105.20:8009/hls/18/index.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -54,7 +54,7 @@
     [
      "suxuang",
      "http://112.46.105.20:8009/hls/19/index.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -87,7 +87,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000122.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -98,7 +98,7 @@
     [
      "suxuang",
      "http://112.46.105.20:8009/hls/20/index.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -131,7 +131,7 @@
     [
      "vbskycn",
      "http://112.46.105.20:8009/hls/29/index.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -502,7 +502,7 @@
     [
      "vbskycn",
      "http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -512,7 +512,7 @@
     [
      "iptv-org",
      "http://go.bkpcp.top/mg/cctv13",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -595,7 +595,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv16",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -621,7 +621,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv17",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -632,7 +632,7 @@
     [
      "vbskycn",
      "http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -658,7 +658,7 @@
     [
      "vbskycn",
      "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -710,7 +710,7 @@
     [
      "vbskycn",
      "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -741,7 +741,7 @@
     [
      "iptv-org",
      "http://go.bkpcp.top/mg/bjws",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -788,7 +788,7 @@
     [
      "suxuang",
      "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -803,7 +803,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000108.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -840,7 +840,7 @@
     [
      "vbskycn",
      "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -970,7 +970,7 @@
     [
      "vbskycn",
      "http://live.zohi.tv/video/s10001-fztv-3/index.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -1157,7 +1157,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000473.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -1277,7 +1277,7 @@
     [
      "vbskycn",
      "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -1360,7 +1360,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000118.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -1455,7 +1455,7 @@
     [
      "vbskycn",
      "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -1465,7 +1465,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000117.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -1610,7 +1610,7 @@
     [
      "suxuang",
      "http://8.138.7.223/tv/cwjd.php",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
