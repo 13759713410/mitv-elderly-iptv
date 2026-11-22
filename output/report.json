@@ -6,8 +6,8 @@
   "戏曲故事": 7
  },
  "missing": [
-  "陕西生活",
-  "陕西公共"
+  "陕西三套 生活",
+  "陕西五套 公共"
  ],
  "stats": {
   "blocked": 51,
@@ -38,7 +38,7 @@
   },
   {
    "group": "陕西",
-   "name": "陕西新闻资讯",
+   "name": "陕西一套 新闻资讯",
    "lines": [
     [
      "vbskycn",
@@ -49,7 +49,7 @@
   },
   {
    "group": "陕西",
-   "name": "陕西都市青春",
+   "name": "陕西二套 都市青春",
    "lines": [
     [
      "suxuang",
@@ -60,7 +60,7 @@
   },
   {
    "group": "陕西",
-   "name": "陕西影视",
+   "name": "陕西四套 影视",
    "lines": [
     [
      "suxuang",
@@ -71,7 +71,7 @@
   },
   {
    "group": "陕西",
-   "name": "陕西体育休闲",
+   "name": "陕西六套 体育休闲",
    "lines": [
     [
      "suxuang",
@@ -98,6 +98,17 @@
     [
      "suxuang",
      "http://112.46.105.20:8009/hls/20/index.m3u8",
+     "fail"
+    ]
+   ]
+  },
+  {
+   "group": "陕西",
+   "name": "陕西秦腔",
+   "lines": [
+    [
+     "suxuang",
+     "http://112.46.105.20:8009/hls/22/index.m3u8",
      "fail"
     ]
    ]
@@ -142,17 +153,6 @@
     [
      "iptv-org",
      "http://stream2.xiancity.cn/xatv3/playlist.m3u8",
-     "fail"
-    ]
-   ]
-  },
-  {
-   "group": "陕西",
-   "name": "陕西秦腔",
-   "lines": [
-    [
-     "suxuang",
-     "http://112.46.105.20:8009/hls/22/index.m3u8",
      "fail"
     ]
    ]
@@ -1277,7 +1277,7 @@
     [
      "vbskycn",
      "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
-     "ok"
+     "fail"
     ],
     [
      "iptv-org",
@@ -1610,7 +1610,7 @@
     [
      "suxuang",
      "http://8.138.7.223/tv/cwjd.php",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
