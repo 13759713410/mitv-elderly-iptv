@@ -87,7 +87,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000122.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -109,7 +109,7 @@
     [
      "suxuang",
      "http://112.46.105.20:8009/hls/22/index.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -621,7 +621,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv17",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -803,7 +803,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000108.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -840,7 +840,7 @@
     [
      "vbskycn",
      "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "iptv-org",
@@ -1157,7 +1157,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000473.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -1360,7 +1360,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000118.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -1465,7 +1465,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000117.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
