@@ -60,7 +60,7 @@
   },
   {
    "group": "陕西",
-   "name": "陕西四套 影视",
+   "name": "陕西西部电影",
    "lines": [
     [
      "suxuang",
@@ -87,7 +87,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000122.m3u8",
-     "ok"
+     "fail"
     ]
    ]
   },
@@ -621,7 +621,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv17",
-     "ok"
+     "fail"
     ]
    ]
   },
@@ -710,7 +710,7 @@
     [
      "vbskycn",
      "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
@@ -803,7 +803,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000108.m3u8",
-     "ok"
+     "fail"
     ]
    ]
   },
@@ -1157,7 +1157,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000473.m3u8",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
@@ -1360,7 +1360,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000118.m3u8",
-     "ok"
+     "fail"
     ]
    ]
   },
@@ -1465,7 +1465,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000117.m3u8",
-     "ok"
+     "fail"
     ]
    ]
   },
@@ -1610,7 +1610,7 @@
     [
      "suxuang",
      "http://8.138.7.223/tv/cwjd.php",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
