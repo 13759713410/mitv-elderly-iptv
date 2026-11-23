@@ -10,7 +10,7 @@
   "陕西五套 公共"
  ],
  "stats": {
-  "blocked": 51,
+  "blocked": 56,
   "dropped_4k": 45,
   "slate": 0
  },
@@ -52,7 +52,7 @@
    "name": "陕西二套 都市青春",
    "lines": [
     [
-     "suxuang",
+     "vbskycn",
      "http://112.46.105.20:8009/hls/19/index.m3u8",
      "ok"
     ]
@@ -87,7 +87,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000122.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -118,7 +118,7 @@
    "name": "西安新闻",
    "lines": [
     [
-     "suxuang",
+     "vbskycn",
      "http://112.46.105.20:8009/hls/28/index.m3u8",
      "ok"
     ]
@@ -214,6 +214,11 @@
    "name": "CCTV3 综艺",
    "lines": [
     [
+     "vbskycn",
+     "http://222.169.85.8:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
      "iptv-org",
      "http://74.91.26.218:82/live/cctv3hd.m3u8",
      "ok"
@@ -226,11 +231,6 @@
     [
      "suxuang",
      "http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8",
-     "fail"
-    ],
-    [
-     "suxuang",
-     "http://175.8.28.207:9999/tsfile/live/0003_1.m3u8",
      "fail"
     ]
    ]
@@ -257,7 +257,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv4",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -283,7 +283,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv5",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -304,7 +304,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv5p",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -370,6 +370,11 @@
    "name": "CCTV8 电视剧",
    "lines": [
     [
+     "vbskycn",
+     "http://124.165.251.82:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "fail"
+    ],
+    [
      "iptv-org",
      "http://74.91.26.218:82/live/cctv8hd.m3u8",
      "ok"
@@ -383,11 +388,6 @@
      "suxuang",
      "http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8",
      "fail"
-    ],
-    [
-     "suxuang",
-     "http://175.8.28.207:9999/tsfile/live/0008_1.m3u8",
-     "fail"
     ]
    ]
   },
@@ -398,7 +398,7 @@
     [
      "iptv-org",
      "https://xykt-fix.github.io/Y77.m3u8",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
@@ -595,7 +595,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv16",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -621,7 +621,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cctv17",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -657,7 +657,7 @@
    "lines": [
     [
      "vbskycn",
-     "http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8",
+     "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?",
      "ok"
     ],
     [
@@ -710,7 +710,7 @@
     [
      "vbskycn",
      "http://bp-resource-dfl.bestv.cn/155/3/video.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -720,7 +720,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=dfws",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -760,6 +760,11 @@
    "name": "天津卫视",
    "lines": [
     [
+     "vbskycn",
+     "http://222.169.85.8:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
      "iptv-org",
      "http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8",
      "fail"
@@ -773,11 +778,6 @@
      "suxuang",
      "http://148.135.93.213/live.php?id=天津卫视",
      "fail"
-    ],
-    [
-     "suxuang",
-     "http://112.27.235.94:8000/hls/42/index.m3u8",
-     "fail"
     ]
    ]
   },
@@ -788,7 +788,7 @@
     [
      "suxuang",
      "http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8",
-     "ok"
+     "fail"
     ],
     [
      "suxuang",
@@ -803,7 +803,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000108.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -838,11 +838,6 @@
    "name": "内蒙古卫视",
    "lines": [
     [
-     "vbskycn",
-     "http://play1-qk.nmtv.cn/live/1769652018126032.m3u8",
-     "ok"
-    ],
-    [
      "iptv-org",
      "https://cdn4.skygo.mn/live/disk1/NeigMGL/HLSv3-FTA/NeigMGL.m3u8",
      "fail"
@@ -856,6 +851,11 @@
      "suxuang",
      "http://101.35.240.114:88/live.php?id=内蒙古卫视",
      "fail"
+    ],
+    [
+     "suxuang",
+     "http://120.76.248.139/live/bfgd/4200000110.m3u8",
+     "ok"
     ]
    ]
   },
@@ -994,11 +994,6 @@
    "name": "江西卫视",
    "lines": [
     [
-     "vbskycn",
-     "http://112.27.5.218:9901/tsfile/live/faacts/0138_1.m3u8?key=txiptv&playlive=1&authid=0",
-     "ok"
-    ],
-    [
      "iptv-org",
      "http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8",
      "fail"
@@ -1011,6 +1006,11 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=jxws",
+     "fail"
+    ],
+    [
+     "suxuang",
+     "http://101.35.240.114:88/live.php?id=江西卫视",
      "fail"
     ]
    ]
@@ -1098,6 +1098,11 @@
    "name": "广东卫视",
    "lines": [
     [
+     "vbskycn",
+     "http://222.169.85.8:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0",
+     "ok"
+    ],
+    [
      "iptv-org",
      "https://h5cul1yar48um3t.wcetv.com/hls/gdsatellite.m3u8",
      "ok"
@@ -1110,11 +1115,6 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=gdws",
-     "fail"
-    ],
-    [
-     "suxuang",
-     "http://101.35.240.114:88/live.php?id=广东卫视",
      "fail"
     ]
    ]
@@ -1157,7 +1157,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000473.m3u8",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -1178,7 +1178,7 @@
     [
      "suxuang",
      "http://t.061899.xyz/tl/tl.php?id=cqws",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
@@ -1275,11 +1275,6 @@
    "name": "西藏卫视",
    "lines": [
     [
-     "vbskycn",
-     "http://112.27.5.218:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0",
-     "ok"
-    ],
-    [
      "iptv-org",
      "https://pili-live-hls-zdzz-tv.zzxwcm.cn/zdzz-tv/nqzh.m3u8",
      "ok"
@@ -1360,7 +1355,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000118.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -1368,11 +1363,6 @@
    "group": "卫视",
    "name": "新疆卫视",
    "lines": [
-    [
-     "vbskycn",
-     "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd;http://218.84.12.186:8001/hls/main/playlist.m3u8zxinjd",
-     "ok"
-    ],
     [
      "iptv-org",
      "https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8",
@@ -1454,7 +1444,7 @@
    "lines": [
     [
      "vbskycn",
-     "http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#",
+     "https://srs.iyb983.cn/video/CYS/index.m3u8",
      "ok"
     ],
     [
@@ -1465,7 +1455,7 @@
     [
      "suxuang",
      "http://120.76.248.139/live/bfgd/4200000117.m3u8",
-     "fail"
+     "ok"
     ]
    ]
   },
@@ -1610,7 +1600,7 @@
     [
      "suxuang",
      "http://8.138.7.223/tv/cwjd.php",
-     "fail"
+     "ok"
     ],
     [
      "suxuang",
